@@ -160,7 +160,7 @@ hr.light-100{
 }
 @media (max-width:576px) {
     .carousel-caption{
-        top:40%;
+        top:35%;
     }
     .carousel-caption h1{
         font-size:250% !important;
@@ -182,6 +182,10 @@ hr.light-100{
         font-size:2rem;
         padding:.7rem;
     }
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+    
 }
 
 /* fixed background */
